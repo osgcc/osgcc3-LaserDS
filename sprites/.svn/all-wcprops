@@ -1,0 +1,59 @@
+K 25
+svn:wc:ra_dav:version-url
+V 26
+/lasers/!svn/ver/1/sprites
+END
+normal_laser.sprite.bmp
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/lasers/!svn/ver/1/sprites/normal_laser.sprite.bmp
+END
+ring.sprite.bmp
+K 25
+svn:wc:ra_dav:version-url
+V 42
+/lasers/!svn/ver/1/sprites/ring.sprite.bmp
+END
+smalltarget.sprite.bmp
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/lasers/!svn/ver/1/sprites/smalltarget.sprite.bmp
+END
+shallowmirror.sprite.bmp
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/lasers/!svn/ver/1/sprites/shallowmirror.sprite.bmp
+END
+splitter.sprite.bmp
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/lasers/!svn/ver/1/sprites/splitter.sprite.bmp
+END
+target.sprite.bmp
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/lasers/!svn/ver/1/sprites/target.sprite.bmp
+END
+bigtarget.sprite.bmp
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/lasers/!svn/ver/1/sprites/bigtarget.sprite.bmp
+END
+mirror.sprite.bmp
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/lasers/!svn/ver/1/sprites/mirror.sprite.bmp
+END
+smallonly.sprite.bmp
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/lasers/!svn/ver/1/sprites/smallonly.sprite.bmp
+END

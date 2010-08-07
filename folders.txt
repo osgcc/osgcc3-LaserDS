@@ -1,0 +1,16 @@
+images:
+	Images, surprisingly enough.  Non-transparent ones.  Automatically converted
+	to data usable by the program by the makefile.
+
+include:
+	Include files!
+	
+psd:
+	Source images, including Photoshop files.
+	
+source:
+	Source code!
+	
+sprites:
+	Sprite images.  They have a transparent background and are converted by the
+	makefile in a different manner than the other images.

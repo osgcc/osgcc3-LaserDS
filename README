@@ -1,0 +1,13 @@
+This is the source for the Lasers game, written by Jarrett Billingsley for the
+PittGeeks Third Annual 24-Hour Game Coding Competition.  It's a game for the
+Nintendo DS, written in C++.
+
+To compile it, you'll need devkitARM (http://devkitpro.org/).  It was compiled
+with release 25 of the toolkit.  Once you have that installed, you should be
+able to just "make" in the root directory.
+
+To run it, you can try using a DS emulator.  iDeaS has issues with the touch-
+screen, which seems like a grievous bug.  DeSmumE (ffs why do they all have
+such weird capitalization) actually seems to work fine.  The best option is of
+course to run it on an actual DS.  I'll leave it to you to find out how to do
+that.

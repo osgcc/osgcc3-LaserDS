@@ -1,0 +1,59 @@
+K 25
+svn:wc:ra_dav:version-url
+V 25
+/lasers/!svn/ver/5/source
+END
+gameobj.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 37
+/lasers/!svn/ver/1/source/gameobj.cpp
+END
+main.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 34
+/lasers/!svn/ver/5/source/main.cpp
+END
+font.s
+K 25
+svn:wc:ra_dav:version-url
+V 32
+/lasers/!svn/ver/1/source/font.s
+END
+laser.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 35
+/lasers/!svn/ver/1/source/laser.cpp
+END
+camera.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 36
+/lasers/!svn/ver/1/source/camera.cpp
+END
+run.bat
+K 25
+svn:wc:ra_dav:version-url
+V 33
+/lasers/!svn/ver/4/source/run.bat
+END
+colmap.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 36
+/lasers/!svn/ver/1/source/colmap.cpp
+END
+tilemap.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 37
+/lasers/!svn/ver/1/source/tilemap.cpp
+END
+compile.bat
+K 25
+svn:wc:ra_dav:version-url
+V 37
+/lasers/!svn/ver/1/source/compile.bat
+END
